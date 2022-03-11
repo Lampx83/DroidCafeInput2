@@ -11,4 +11,5 @@
     <string name="froyo_order_message">You ordered a FroYo.</string>
     <string name="change_dessert">Change dessert</string>
     <string name="order_label_text">Order:</string>
+    <string name="name_label_text">Name</string>
 </resources>
